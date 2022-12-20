@@ -1,4 +1,3 @@
-
 # Example for SRT stats printing using GStreamer
 ## General
 * The working bitrate estimation SRT stream (version 1.4.0) is accessible on port 8887.
